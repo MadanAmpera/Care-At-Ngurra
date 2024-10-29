@@ -107,6 +107,13 @@ body{
 .about-us{
     text-align: center;
 }
+.services{
+    grid-column: 1 / 6;
+}
+.qr-code{
+    grid-column: 7 / 13;
+    justify-self: center;
+}
 .under-construction{
     text-align: center;
 }
